@@ -4,4 +4,6 @@ Tiene 22 años y es estudiante
 
 Actualmente esta tomando un curso de Backend en platzi
 
-Omar es bilingue su segundo idioma es ingles  
+Omar es bilingüe su segundo idioma es ingles
+
+master 1
