@@ -7,3 +7,5 @@ Actualmente esta tomando un curso de Backend en platzi
 Omar es bilingüe su segundo idioma es ingles
 
 master 1
+
+master 2
